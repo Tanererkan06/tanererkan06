@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+React & React Native Developers.. 
+Game Manager
+Turkey/Germany Product Manager 
 <!--
 **Tanererkan06/tanererkan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
